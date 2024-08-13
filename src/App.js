@@ -14,7 +14,7 @@ function App() {
   let navigate = useNavigate()
   let [shoesData, setShoesData] = useState(2)
   let [isDisable, setIsDisable] = useState(false)
-
+  let[이상한함수] =useState();
 
   return (
     <div className="App">
